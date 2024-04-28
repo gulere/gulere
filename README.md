@@ -1,10 +1,15 @@
 🚀Hello world!🌍
 
 A **full-stack codernaut** by day and meme _connoisseur_ by night.
+
 Building the future with puns from the past! 
-Join my coding adventure through the tech galaxy! 
-Sharing my learnings (and mistakes) along the way. 
-This portfolio's under construction, but shiny tools are coming soon! 
+
+Join my **coding** adventure through the tech galaxy! 
+
+Sharing _my learnings (and mistakes)_ along the way. 
+
+This **portfolio**'s under construction, but shiny tools are coming soon! 
+
 ☄️⭐🌚
 
 <!---
